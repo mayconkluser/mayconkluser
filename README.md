@@ -1,4 +1,4 @@
-### Olá eu sou a Maycon Klüser, Desenvolvedor Front-End!
+### Olá, sou o Maycon Klüser, Desenvolvedor Front-End!
 
 <div align="center">
   <a href="https://github.com/mayconkluser">
