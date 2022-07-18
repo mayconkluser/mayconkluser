@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 
 ### Me chamo Maycon, sou Dev front-end e UI Design. 
-### Sejam bem-vindos ao meu perfil.
+### Seja bem-vindo ao meu perfil.
 
 <div align="center">
   <a href="https://github.com/mayconkluser">
